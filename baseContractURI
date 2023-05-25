@@ -1,0 +1,8 @@
+{
+  "name": "Stark Ghosts",
+  "description": "👻",
+  "image": "https://raw.githubusercontent.com/Verstor/ghost/main/avatar.gif",
+  "banner_image_url": "https://raw.githubusercontent.com/Verstor/ghost/main/banner.png",
+  "seller_fee_basis_points": 1000,
+  "fee_recipient": "0x07fd178FCd84755AadE1DAEFf45915946e5D3B67A084846E353943338e02e32F"
+}
